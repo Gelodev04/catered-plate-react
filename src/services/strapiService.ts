@@ -16,6 +16,7 @@ export const fetchTopBar = async (endpoint: string) => {
 
 }
 
+<<<<<<< HEAD
 export const fetchHome = async (endpoint: string) => {
     const response = await api.get(`${endpoint}`);
     return response.data;
@@ -28,3 +29,5 @@ export const fetchEvent = async (endpoint: string) => {
     return response.data;
 
 }
+=======
+>>>>>>> 0dd443b51f4731073361fab940e498f57d14bff5

@@ -1,9 +1,19 @@
 
 *{
+<<<<<<< HEAD
   
   box-sizing: border-box;
 }
 
 body{
   background-color: #FEF8E0;
+=======
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FEF8E0;
+>>>>>>> 0dd443b51f4731073361fab940e498f57d14bff5
 }
