@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <Home />
       <Event/>
-      <div className="h-screen"></div>
+      <div className="h-screen a"></div>
     </div>
   );
 }
