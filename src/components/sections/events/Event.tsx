@@ -13,7 +13,7 @@ if(isLoading) return <p>Loading...</p>;
 if(error) return <p>Error loading data</p>;
 
   return (
-    <section className="mt-15">
+    <section className="mt-15 c">
         <div className="bg-main  rounded-t-[5rem] relative py-10 text-[white] text-center px-5 space-y-2">
           <h1 className=" text-[2.5rem]  font-sedan ">{data?.data?.title}</h1>
           <p className="text-[1.2rem]">{data?.data?.description}</p>
